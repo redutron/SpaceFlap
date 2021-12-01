@@ -1,6 +1,6 @@
 # Space Flap
 Another result of playing with curves to create an artistically interesting animation.<br>  
-Please view a live demo at : https://codepen.io/niitettehtsuru/pen/vYLVLBd<br>
+Please view a live demo at : https://codepen.io/redutron/details/vYLVLBd<br>
 
 <img width="1345px" height="450px"  src ="img/img.png">
  
